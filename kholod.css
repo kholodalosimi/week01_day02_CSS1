@@ -1,0 +1,30 @@
+h1 {
+    color : blue;
+
+}
+h1,h2,h3,h4,h5,h6{
+   color : orangered ;
+
+} h1,h2,h3,h4,h5,h6{
+
+    text-align: center ;
+}
+p {
+    color: maroon ;
+}
+h3 {
+    color: chocolate ;
+}
+
+ img { 
+    margin: 0 40%;
+}
+
+p {
+    padding: 2px 0 2px 2px;
+    margin-bottom: 2px;
+}
+h4 {
+    
+     color: red;
+}
